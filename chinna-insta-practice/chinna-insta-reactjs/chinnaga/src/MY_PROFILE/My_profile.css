@@ -1,0 +1,223 @@
+.my_profile1 {
+    display: inline-flex;
+    margin: 10px;
+}
+
+.myprofilr2 {
+
+    width: 500px;
+}
+
+.my_profile3 {
+    width: 80px;
+    height: 80px;
+    margin-top: 50px;
+    border-radius: 50%;
+    border: 5px solid rgb(120, 120, 169);
+}
+
+.my_profil {
+    border-bottom: 4px solid rgb(247, 236, 236);
+    width: 1040px;
+    height: 340px;
+}
+
+.mmm {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+.my-orofileee {
+    color: black;
+    text-decoration: none;
+
+}
+
+.my_post {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+
+
+}
+
+.my_pro {
+    width: 1040px;
+
+}
+
+.my_profile {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.my_im {
+    width: 180px;
+    height: 180px;
+
+    border-radius: 50%;
+}
+
+.my_proo {
+    width: 50px;
+    height: 50px;
+
+}
+
+.mmee {
+    display: inline-flex;
+
+    width: 1040px;
+}
+
+.my_proo1 {
+
+    margin-top: 100px;
+    text-align: center;
+
+
+}
+
+.my_proo2 {
+    font-size: 25px;
+    color: rgb(147, 138, 138);
+}
+
+.mypofile11 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.myprofilr3 {
+    width: 130px;
+}
+
+.my_proo0 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.my_proo19 {
+    margin-top: 50px;
+}
+
+.all-0 {
+
+    padding: 10px;
+    background-color: rgb(235, 229, 229);
+
+}
+
+.my-pofile122 {
+    display: inline-flex;
+
+
+}
+
+.my-pofile123 {
+    margin: 10px;
+
+}
+
+.my-orofileee:hover {
+    background-color: rgb(161, 149, 149);
+
+    color: black;
+}
+
+.my_im1 {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.my-pofff{
+    display: inline-flex;
+}
+
+@media (max-width: 668px) {
+    .my_profile {
+        width: 400px;
+        margin: 0px;
+        padding: 0px;
+
+    }
+
+    .myprofilr3 {
+        margin-left: 0px;
+    }
+
+    .my_profil {
+        height: 400px;
+    }
+
+
+
+    .my_im {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        margin-top: 30px;
+    }
+
+    .my-pofff {
+        display: inline-flex;
+        width: 400px;
+        height: 100px;
+    }
+
+    .mypofile11 {
+        font-size: 13px;
+    }
+
+    .my_profil1 {}
+
+    .my_im1 {
+        margin-left: 20px;
+
+        width: 215px;
+    }
+
+    .my-orofileee {
+        font-size: 10px;
+    }
+
+    .myprofilr3 {
+
+        font-size: 10px;
+        width: 50px;
+    }
+
+    .my-pofile122 {
+        margin-top: 0px;
+    }
+
+
+    .my-pofile123 {
+        margin: 5px;
+
+    }
+
+    .my_profile3 {
+        width: 30px;
+        height: 30px;
+        margin-top: 50px;
+    }
+
+    .my_post {
+        width: 50px;
+    }
+
+    .my_proo1 {
+        margin-right: 100px;
+    }
+
+
+
+    .my_proo {
+        margin: 0px;
+    }
+
+
+}

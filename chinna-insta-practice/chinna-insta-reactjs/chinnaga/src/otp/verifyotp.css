@@ -1,0 +1,33 @@
+.verift-otp{
+    display: inline-flex;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.verify{
+    border: 5px solid rgb(230, 226, 226);
+    width: 500px;
+    padding: 30px;
+    margin-left: 100px;
+    margin-top: 50px;
+    height: 250px;
+}
+
+.verify:hover{
+    border: 5px solid rgb(43, 99, 222);
+}
+
+.verify1{
+    width: 400px;
+    margin-top: 10px;
+}
+.verify2{
+    font-size: 20px;
+}
+
+.verify3{
+    width: 400px;
+    margin-top: 10px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+}

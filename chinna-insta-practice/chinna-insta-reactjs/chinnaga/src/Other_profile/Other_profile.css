@@ -1,0 +1,116 @@
+.other{
+    width: 180px;
+    height: 180px;;
+    border-radius: 50%;
+}
+
+.other1{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.other2{
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.myppr{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.nth{
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.athe{
+   
+    display: inline-flex;
+}
+
+.athe1{
+    margin: 10px;
+}
+
+.athe2{
+    font-size: 600;
+    margin-top: 50px;
+   
+}
+
+.otgg{
+    display: inline-flex;
+}
+.athe3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+@media (max-width: 668px) {
+    .my_profile{
+        width: 400px;
+        margin: 0px;
+        margin-top: 10px;
+        
+    }
+    .otgg{
+      display: inline-flex;
+     
+      
+     
+    }
+
+  
+    .other{
+        width: 100px;
+        height: 100px;
+        margin: 0px;
+        padding: 0px;
+        border-radius: 50px;
+        margin-top: 20px;
+    }
+
+    .other1{
+        font-size: 13px;
+    }
+
+    .my_profil1{
+        font-size: 12px;
+    }
+
+    .my_profile1{
+        font-size: 12px;
+    }
+
+    .other2{
+        font-size: 13px;
+    }
+    .myprofilr2{
+        font-size: 10px;
+        width: 280px;
+    }
+    .myppr{
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+    
+
+    .my_profile3{
+        width: 50px;
+        height: 50px;
+    }
+    .my_pro{
+        width: 400px;
+    }
+    .my_post{
+        width: 100px;
+        height: 100px;
+    }
+    .my_profil{
+        border-bottom: 3px solid rgb(150, 139, 139);
+        width: 400px;
+        height: 300px;
+    }
+}
+

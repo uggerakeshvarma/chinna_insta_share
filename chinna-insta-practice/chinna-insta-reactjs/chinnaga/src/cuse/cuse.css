@@ -1,0 +1,42 @@
+.slider-container {
+    width: 100%;
+}
+
+.slider {
+    width: 100%;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* Adjust column count as needed */
+    gap: 1rem;
+    /* Adjust gap between images as needed */
+}
+
+.image-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.mss {
+    margin-left: 200px;
+    margin-right: 200px;
+   
+}
+
+.case img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.case{
+    display: flex;
+}

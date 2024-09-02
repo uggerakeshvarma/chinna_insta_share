@@ -1,0 +1,30 @@
+.image1{
+    width: 1040px;
+    height: 560px;
+}
+
+.image0{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.image2{
+    margin: 10px;
+    font-size: 25px;
+}
+
+.image3{
+   
+    width: 500px;
+}
+
+.image{
+    border: 1px solid rgb(95, 92, 92);
+    width: 1040px;
+    margin-left: 200px;
+    
+}
+
+.image-1{
+    padding: 10px;
+}
